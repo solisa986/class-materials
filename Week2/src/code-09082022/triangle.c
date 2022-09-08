@@ -2,6 +2,10 @@
 int main(){
 	for (int i = 0; i < 5; i++){
 		/* add your code here  */
+		for (int j = 0; j <= i; j++){
+			printf("* ");
+		}
+		printf("\n");
 	}
 	return 0;
 }
