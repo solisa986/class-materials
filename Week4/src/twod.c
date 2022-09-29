@@ -34,7 +34,7 @@ void m5(int **delta, int gamma){
 	}
 }
 int main(){
-	int alpha = 9;
+	int alpha = 16;
 	int *beta = (int *) malloc(alpha*sizeof(int));
 	int gamma = (int) sqrt(alpha);
 	int *delta[gamma];
