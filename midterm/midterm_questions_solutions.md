@@ -13,7 +13,7 @@ The topics covered in the exam are displayed below:
 1. Review the basic underlying computer architecture in Week 1. Review the different units of binary such as bits, bytes, words, megabytes, and gigabytes.
     - basic underlying computer architecture:
         - Both instruction and data are stored and processed in binary form inside a computer.
-        - [Computer Architecture](midterm/img/computer_architecture.svg)
+        - ![Computer Architecture](img/computer_architecture.svg)
     - reviewing the different units of binary:
         - Binary = 0’s and 1’s
         - 2 Bit - the basic unit of information for computers. Can hold 0 or 1 values.
@@ -99,13 +99,5 @@ to trace code segments in the test.)
 
 #### Disclaimer
 
-All Topics covered from the start of the semester till the end of the Tuesday class session, that is, 10/18/2022 will be included in the Exam. 
-Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. 
-Make sure to review all the questions asked in the Quiz and Class participation activities.
-Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. 
 Typically, the questions are expected to be multiple-choice and descriptive/narrative questions. 
 You can expect between 10  to 15 questions, with a 1 hour 50 mins exam time. 
-You will receive your grade after grading is completed, which is within one week from the exam date. 
-You are allowed to use a one-page (can be 2-sided) resource sheet during the Exam. 
-
-Good luck with the Exam preparation.
